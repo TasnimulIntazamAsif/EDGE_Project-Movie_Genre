@@ -34,10 +34,6 @@ To run this project, you'll need the following Python packages:
 - seaborn
 - scikit-learn
 
-You can install these packages using pip:
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn
-```
 
 ## Usage
 
@@ -55,6 +51,8 @@ The notebook includes:
 - Statistical analysis
 
 ## Results
+
+![Image](https://github.com/user-attachments/assets/4b74c0e8-b573-416d-ab6a-f0a056d56074)
 
 The analysis provides insights into:
 - Genre distribution among top movies
