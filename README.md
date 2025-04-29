@@ -34,10 +34,6 @@ To run this project, you'll need the following Python packages:
 - seaborn
 - scikit-learn
 
-You can install these packages using pip:
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn
-```
 
 ## Usage
 
