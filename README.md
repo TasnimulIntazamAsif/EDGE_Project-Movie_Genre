@@ -54,6 +54,7 @@ The notebook includes:
 
 ![Image](https://github.com/user-attachments/assets/4b74c0e8-b573-416d-ab6a-f0a056d56074)
 
+![Image](https://github.com/user-attachments/assets/46498c32-7eac-4533-8873-9c79c3534e4f)
 The analysis provides insights into:
 - Genre distribution among top movies
 - Relationship between genres and ratings
