@@ -57,7 +57,7 @@ The notebook includes:
 ![Image](https://github.com/user-attachments/assets/46498c32-7eac-4533-8873-9c79c3534e4f)
 
 ##Here is project Demonstration(Watch the video in the given link)
-https://www.linkedin.com/posts/asif2896_movie-genre-analysis-project-this-project-activity-7324762563232022528-tYh0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWZn0wBy8amgZ5P_rDmimf7Ku_0ah84sCg
+https://www.linkedin.com/posts/asif2896_edge-machinelearning-activity-7324764426903969792-TVAi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWZn0wBy8amgZ5P_rDmimf7Ku_0ah84sCg
 The analysis provides insights into:
 - Genre distribution among top movies
 - Relationship between genres and ratings
